@@ -1,0 +1,85 @@
+.navbar-nav .nav-link{
+    padding: 3px;
+    margin: 2px;
+}  
+
+.navbar-nav .nav-link:hover{
+    
+    color: red !important;
+   
+}  
+
+
+.nav .nav-link{
+    font-size: 14px;
+    padding: 5px;
+    margin: 5px
+    
+}
+
+.navbar-brand{
+    height: 80px; 
+    
+}
+
+.schoolBrand{
+    
+    width: 200px;
+    background:url("https://res.cloudinary.com/emmanuelstudentpage/image/upload/v1552091540/schoollogo1.png"); /* schoollogo1.png*/
+    background-repeat: no-repeat; 
+      
+}
+
+.carousel-item{
+    height: 550px;
+   
+    }
+
+.carousel-indicators .indicatorPoint{
+    background-color: white;
+}
+
+.carousel-image-1{
+    background: url('https://res.cloudinary.com/emmanuelstudentpage/image/upload/v1552091426/f.jpg'); /* ../img/f.jpg */
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.carousel-image-2{
+    background: url('https://res.cloudinary.com/emmanuelstudentpage/image/upload/v1552091518/libray.jpg'); /*../img/libray.jpg */
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.carousel-image-3{
+    background: url('https://res.cloudinary.com/emmanuelstudentpage/image/upload/v1552091434/g.jpg'); /*../img/g.jpg */
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+}
+
+#home-heading{
+    position: relative;
+    min-height: 500px;
+    background: url('https://res.cloudinary.com/emmanuelstudentpage/image/upload/v1552091547/reading.jpg'); /* ../img/reading.jpg */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.dark-overlay {
+    position: absolute;
+    top: 0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.7) !important;
+    
+    }
+
+   
+.imgBoxOne{
+    max-width: 40px !important;
+    max-height: 40px;
+}
